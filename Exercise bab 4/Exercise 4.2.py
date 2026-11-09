@@ -6,4 +6,6 @@ for animal in animals:
 for animal in animals:
     print(f"{animal} bisa menjadi hewan peliharaan yang bagus!")
 
-print("Hewan-hewan ini bisa menjadi peliharaan yang luar biasa")
+print(
+"Aku benar-benar menyukai hewan peliharaan!"
+)
